@@ -1,2 +1,2 @@
 # sample
-HP_sample
+sample
